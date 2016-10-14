@@ -1,6 +1,8 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+$config['webname'] = "測試網站";
+
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
