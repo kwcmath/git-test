@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $config['webname'] = "測試網站";
+$config['type'] = ['a', 'b', 'c'];
 
 /*
 |--------------------------------------------------------------------------
